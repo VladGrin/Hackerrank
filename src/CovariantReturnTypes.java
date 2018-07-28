@@ -36,7 +36,7 @@ class Jasmine extends Flower{
 class Lily extends Flower{
     @Override
     String whatsYourName() {
-        return "Lily";
+        return "Lily ";
     }
 }
 
